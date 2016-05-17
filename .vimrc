@@ -2,6 +2,7 @@ syntax on
 filetype plugin indent on
 
 set backspace=2
+:set hlsearch
 :set nu
 :colorscheme molokai
 :set foldmethod=marker
